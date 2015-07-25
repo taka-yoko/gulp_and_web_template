@@ -1,0 +1,13 @@
+index.html
+css
+  base.css
+sass
+  base.scss
+  partial
+    _header.scss
+    _footer.scss
+    _component.scss
+    _layout.scss
+    _typographoy.scss
+script
+    base.js
