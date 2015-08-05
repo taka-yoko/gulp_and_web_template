@@ -1,22 +1,8 @@
 @charset "UTF-8";
 
-html {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  background-color: #ffff00;
-}
-
-.test {
-  margin: 0;
-  padding: 0;
-}
-
-nav {
-  margin: 0;
-  padding: 0
-}
+@import "partial/header";
+@import "partial/footer";
+@import "partial/component";
+@import "partial/layout";
+@import "partial/typographoy";
+@import "partial/util";

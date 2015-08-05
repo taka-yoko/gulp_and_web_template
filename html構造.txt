@@ -9,5 +9,6 @@ sass
     _component.scss
     _layout.scss
     _typographoy.scss
+    _util.scss
 script
     base.js
